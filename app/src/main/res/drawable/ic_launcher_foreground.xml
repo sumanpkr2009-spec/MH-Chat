@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- chat bubble -->
+    <path
+        android:fillColor="#FF1EB980"
+        android:pathData="M54,28c-16,0 -29,11.2 -29,25s13,25 29,25c2.2,0 4.3,-0.2 6.3,-0.7l10.4,7.1c1.1,0.7 2.6,0.1 2.8,-1.2l1.6,-10.7c4.5,-3.9 7.4,-9.3 7.4,-15.5S70,28 54,28z" />
+    <!-- text lines -->
+    <path
+        android:fillColor="#FF06281F"
+        android:pathData="M41,48h26v4H41zM41,56h17v4H41z" />
+</vector>
